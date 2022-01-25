@@ -21,7 +21,7 @@ Bank and similar (SafetyNet) apps should still work but might require you to re-
 4. Copy download [globalify.sh](globalify.sh) and save it as `globalify.sh` on the root of the target Surface Duo.
 5. Open a terminal with adb and run the following
    1. `adb shell`
-   2. `adb su`
+   2. `su`
    3. `cd /sdcard/ && chmod +x globalify.sh && ./globalify.sh`
 6. Exit adb shell and run `adb reboot recovery`.
 7. Pick the sideload through adb option.
