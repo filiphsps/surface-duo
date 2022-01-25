@@ -10,7 +10,8 @@
 
 ## WARNINGS
 
-While this has been tested on my personal device I cannot confirm that'll it work for yours. sim card support might be broken (though it worked on my Swedish network). **I am not responsible for any damage that might occur to your device.**
+While this has been tested on my personal device I cannot confirm that'll it work for yours. sim card support might be broken (though it worked on my Swedish network). **I am not responsible for any damage that might occur to your device.**.
+Bank and similar (SafetyNet) apps should still work but might require you to re-lock the bootloader afterwards. Since we'll just be running stock firmware.
 
 ## Steps
 
