@@ -1,4 +1,4 @@
-#/bin/sh
+#!/bin/sh
 
 echo "Surface Du AT&T to Global"
 echo "by Filiph Sandström"
