@@ -1,10 +1,5 @@
 #/bin/sh
 
-if [ "$EUID" -ne 0 ]
-  then echo "Please run as root"
-  exit
-fi
-
 echo "Surface Du AT&T to Global"
 echo "by Filiph Sandström"
 
