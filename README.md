@@ -3,7 +3,7 @@
 ## Prerequisites
 
 - Your AT&T Surface Duo recovery image.
-- A global Surface Duo recovery image (https://www.reddit.com/r/surfaceduo/comments/sc0k2g/comment/hu47nva/?utm_source=share&utm_medium=web2x&context=3).
+- A global Surface Duo recovery image (https://forum.xda-developers.com/t/android-11-ota-link-zip-file-img-files-unlocked.4393341/).
 - [Root](https://forum.xda-developers.com/t/root-guide-updated.4266095/).
 - Unlocked bootloader (including critical).
 - USB Debugging turned on.
