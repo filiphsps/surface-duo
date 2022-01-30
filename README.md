@@ -22,7 +22,9 @@ Bank and similar (SafetyNet) apps should still work but might require you to re-
 5. Open a terminal with adb and run the following
    1. `adb shell`
    2. `su`
-   3. `cd /sdcard/ && chmod +x globalify.sh && ./globalify.sh`
+   3. `cd /data/local/tmp`
+   4. `mv /sdcard/globalify.sh ./`
+   5. `chmod +x globalify.sh && ./globalify.sh`
 6. Exit adb shell and run `adb reboot recovery`. You might have to press Volume Up + Power to get past the "No Command" screen.
 7. Pick the sideload through adb option.
 8. `adb sideload name_of_duo_global_ota.zip`, This might fail at 94-98%; but should still work. If not just boot into recovery and retry from step 6.
