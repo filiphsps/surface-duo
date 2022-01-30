@@ -29,5 +29,5 @@ Bank and similar (SafetyNet) apps should still work but might require you to re-
 7. Pick the sideload through adb option.
 8. `adb sideload name_of_duo_global_ota.zip`, This might fail at 94-98%; but should still work. If not just boot into recovery and retry from step 6.
 9. Reboot.
-10. Profit!!!
+10. Profit!!!!
 11. Support me on [GitHub Sponsors](https://github.com/sponsors/filiphsandstrom) if you'd like to say thanks :D
